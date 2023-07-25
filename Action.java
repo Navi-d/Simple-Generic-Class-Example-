@@ -1,4 +1,5 @@
 public class Action<T extends Animal> {
+    // this is for Action class
     private T animal;
 
     public Action(T animal) {
